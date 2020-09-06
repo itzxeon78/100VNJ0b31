@@ -1,2 +1,4 @@
 # 100VNJ0b31
- Código fuente del firmware 100VNJ0b31 para el router MitraStar GPT-2541GNAC.
+
+## ¿Qué es este repositorio?
+Este repositorio contiene los archivos que se pueden extraer del firmware 1.00(VNJ.0)b31 del router MitraStar GPT-2541GNAC.
